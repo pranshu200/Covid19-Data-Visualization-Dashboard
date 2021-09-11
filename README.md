@@ -25,3 +25,11 @@ Link: https://www.kaggle.com/sudalairajkumar/covid19-in-india
 
 # Project Link:
 Link: https://github.com/pranshu200/Covid19-Data-Visualization-Dashboard.git
+
+# Languages or Frameworks Used
+<ul><li>Python: language</li>
+<li>NumPy: library for numerical calculations</li>
+<li>Pandas: library for data manipulation and analysis</li>
+<li>Matplotlib: for creating static, animated, and interactive visualizations</li>
+<li>Seaborn: for data visualization</li>
+  <li>Fbprophet: for forecasting time series</li></ul>
