@@ -24,4 +24,4 @@ Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2
 Link: https://www.kaggle.com/sudalairajkumar/covid19-in-india
 
 # Project Link:
-Link: 
+Link: https://github.com/pranshu200/Covid19-Data-Visualization-Dashboard.git
