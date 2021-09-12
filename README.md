@@ -2,7 +2,7 @@
 Motive was to represent the number of cured , confirmed and death cases in top ten affected states of India on Visualization Dashboard and to predict future events such as number of expected cases in coming months using Python.
 
 # Aim of the project:
-<ul><li>To present the affected cases of top 10 most affected states of India</li>
+<ul><li>To present the confirmed cases of top 10 most affected states of India</li>
   <li>To present the cured cases of top 10 most affected states of India</li>
   <li>To present the death cases of top 10 most affected states of India</li>
   <li>To predict the future number of cases till December2021</li></ul>
